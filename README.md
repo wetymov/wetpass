@@ -8,8 +8,13 @@ Telegram-бот предназначен для хранения паролей 
 
 ## Установка:
 
-1. git clone https://github.com/wetymov/wetpass.git
-2. pip install -r requirements.txt
+```
+git clone https://github.com/wetymov/wetpass.git 
+```
+
+```
+pip install -r requirements.txt
+```
 
 ## Запуск:
 
